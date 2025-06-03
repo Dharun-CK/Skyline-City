@@ -295,6 +295,9 @@ body {
       var(--window-color3) 30%
     );
 }
+footer{
+margin:5px;
+}
 
 @media (max-width: 1000px) {
   :root {
