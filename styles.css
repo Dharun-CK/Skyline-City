@@ -296,7 +296,7 @@ body {
     );
 }
 footer{
-margin:5px;
+margin:1px;
 }
 
 @media (max-width: 1000px) {
@@ -319,7 +319,6 @@ margin:5px;
         #445 21%,
         #223 100%
       );
-transition: 2s ;
   }
 }
     
